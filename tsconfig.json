@@ -10,7 +10,7 @@
     "moduleResolution": "bundler",
     "resolveJsonModule": true,
     "isolatedModules": true,
-    "types": ["next-auth"],
+    "types": ["next-auth", "node", "express"],
     "jsx": "preserve",
     "incremental": true,
     "allowImportingTsExtensions": true,
